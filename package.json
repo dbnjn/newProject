@@ -23,7 +23,7 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "heroku-postbuild": "npm install && npm run build && npm run start",
+    "heroku-postbuild": "npm install",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
